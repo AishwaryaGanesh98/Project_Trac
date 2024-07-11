@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="9" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-14T18:25:49 IST" name="Default suite" finished-at="2024-06-14T18:25:58 IST" duration-ms="9395">
+    <groups>
+    </groups>
+    <test started-at="2024-06-14T18:25:49 IST" name="Default test" finished-at="2024-06-14T18:25:58 IST" duration-ms="9395">
+      <class name="com.trello.admin.AssertionsDemo">
+        <test-method signature="listName()[pri:0, instance:com.trello.admin.AssertionsDemo@47faa49c]" started-at="2024-06-14T18:25:49 IST" name="listName" finished-at="2024-06-14T18:25:58 IST" duration-ms="9305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listName -->
+      </class> <!-- com.trello.admin.AssertionsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
